@@ -4,7 +4,7 @@
 
 #### Status: Completed
 
-This repository is created to keep track of [Machine Learning](https://www.coursera.org/learn/machine-learning) provided by Coursera. This educational program is developed by Stanford University and designed to learn to machine learning, datamining, and statistical pattern recognition. 
+This repository is created to keep track of [Machine Learning](https://www.coursera.org/learn/machine-learning) provided by Coursera. This educational program is developed by Stanford University and designed to learn machine learning, datamining, and statistical pattern recognition. 
 
 In the first course on Linear Algebra we look at what linear algebra is and how it relates to data. Then we look through what vectors and matrices are and how to work with them.
 
