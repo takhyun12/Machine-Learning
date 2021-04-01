@@ -2,43 +2,37 @@
 
 #### Author: Tackhyun Jung
 
-#### Status: Completed
+#### Status: ~ing
 
 This repository is created to keep track of [Machine Learning](https://www.coursera.org/learn/machine-learning) provided by Coursera. This educational program is developed by Stanford University and designed to learn machine learning, datamining, and statistical pattern recognition. 
 
-In the first course on Linear Algebra we look at what linear algebra is and how it relates to data. Then we look through what vectors and matrices are and how to work with them.
-
-The second course, Multivariate Calculus, builds on this to look at how to optimize fitting functions to get good fits to data. It starts from introductory calculus and then uses the matrices and vectors from the first course to look at data fitting.
-
-The third course, Dimensionality Reduction with Principal Component Analysis, uses the mathematics from the first two courses to compress high-dimensional data. This course is of intermediate difficulty and will require Python and numpy knowledge.
-
-![Certificate](https://user-images.githubusercontent.com/41291493/112722993-c37efd80-8f4f-11eb-82c3-735953ec1818.png)
+In this course, I learned how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.
 
 ---
 
 ## Learning Objectives
-* Eigenvalues And Eigenvectors
-* Basis (Linear Algebra)
-* Transformation Matrix
-* Linear Algebra
-* Linear Regression
-* Vector Calculus
-* Multivariable Calculus
-* Gradient Descent
-* Dimensionality Reduction
-* Python Programming
-
----
-
-## Table of Contents
-
-1. [Mathematics for Machine Learning: Linear Algebra](https://github.com/takhyun12/Mathematics-for-Machine-Learning/tree/main/%20Linear%20Algebra)
-2. [Mathematics for Machine Learning: Multivariate Calculus](https://github.com/takhyun12/Mathematics-for-Machine-Learning/tree/main/Multivariate%20Calculus)
-3. [Mathematics for Machine Learning: PCA](https://github.com/takhyun12/Mathematics-for-Machine-Learning/tree/main/PCA)
+1. Introduction `week1`
+2. Linear Regression with One Variable `week1`
+3. Linear Algebra Review `week1`
+4. Linear Regression with Multiple Variables `week2`
+5. Octave/Matlab Tutorial `week2`
+6. Logistic Regression `week3`
+7. Regularization `week3`
+8. Neural Networks: Representation `week4`
+9. Neural Networks: Learning `week5` 
+10. Advice for Applying Machine Learning `week6`
+11. Machine Learning System Design `week6`
+12. Support Vector Machines `week7`
+13. Unsupervised Learning `week8`
+14. Dimensionality Reduction `week8`
+15. Anomaly Detection `week9`
+16. Recommender Systems `week9`
+17. Large Scale Machine Learning `week10`
+18. Application Example: Photo OCR `week11`
 
 ---
 
 ## Credit
 
-* [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
-* [Certification-Link](https://www.coursera.org/account/accomplishments/specialization/G56RYAP7LC8Y)
+* [Machine Learning](https://www.coursera.org/learn/machine-learning)
+* [Certification-Link]
