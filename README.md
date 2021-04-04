@@ -2,7 +2,7 @@
 
 #### Author: Tackhyun Jung
 
-#### Status: ~ing
+#### Status: Completed
 
 This repository is created to keep track of [Machine Learning](https://www.coursera.org/learn/machine-learning) provided by Coursera. This educational program is developed by Stanford University and designed to learn machine learning, datamining, and statistical pattern recognition. 
 
@@ -35,4 +35,4 @@ In this course, I learned how to apply learning algorithms to building smart rob
 ## Credit
 
 * [Machine Learning](https://www.coursera.org/learn/machine-learning)
-* [Certification-Link]
+* [Certification-Link](https://www.coursera.org/account/accomplishments/verify/M7NR75DVJ48J)
