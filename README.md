@@ -8,6 +8,8 @@ This repository is created to keep track of [Machine Learning](https://www.cours
 
 In this course, I learned how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.
 
+![Certificate](https://user-images.githubusercontent.com/41291493/113501115-09dee880-955e-11eb-966e-87d1928c97f2.png)
+
 ---
 
 ## Learning Objectives
